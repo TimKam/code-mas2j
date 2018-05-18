@@ -1,0 +1,33 @@
+{
+    "name": "code-mas2j",
+    "displayName": "code-mas2j",
+    "description": "Highlights Jason project file (.mas2j) syntax",
+    "version": "0.0.1",
+    "publisher": "tkampik",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "contributes": {
+        "languages":[
+            {
+                "id": "mas2j",
+                "aliases": [
+                    "mas2j"
+                ],
+                "extensions": [
+                    ".mas2j"
+                ]
+            }
+        ],
+        "grammars": [
+            {
+                "language": "mas2j",
+                "scopeName": "mas2j",
+                "path": "./mas2j.tmLanguage.json"
+            }
+        ]
+    }
+}
