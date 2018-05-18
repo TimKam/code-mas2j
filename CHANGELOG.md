@@ -3,3 +3,5 @@ All notable changes to the *code-mas2j* extension will be documented in this fil
 
 ## 0.0.1
 - Initial release
+## 0.0.2
+- Added *AgentSpeak* (``.asl``) highlighting
