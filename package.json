@@ -4,6 +4,9 @@
     "description": "Highlights Jason project file (.mas2j) syntax",
     "version": "0.0.1",
     "publisher": "tkampik",
+    "repository": {
+        "url": "https://github.com/TimKam/code-mas2j"
+    },
     "engines": {
         "vscode": "^1.23.0"
     },
